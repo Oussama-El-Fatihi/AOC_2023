@@ -1,5 +1,5 @@
 def cube_conundrum(file_path):
-    file = open('day2_text.txt','r')
+    file = open(file_path,'r')
     sum = 0
     r = 12
     g = 13
